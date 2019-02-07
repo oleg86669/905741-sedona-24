@@ -39,7 +39,7 @@
        margin-left: -65px;
    }
    .background_photo{
-       background: url(background_photo.png) no-repeat;
+       background: url(img/background_photo.png) no-repeat;
        width: 1199px;
        height: 760px;
        margin: 0 auto;
@@ -91,7 +91,7 @@
    section div:nth-child(2){
     width: 800px;
     height: 256px;
-    background: url(Layer_10.png) no-repeat;
+    background: url(img/Layer_10.png) no-repeat;
    }
    section div:nth-child(3){
     text-align: center;
@@ -100,7 +100,7 @@
     width: 400px;
     height: 250px;
     background-color: white;
-    background: url(icon-1.png) no-repeat 160px 60px;
+    background: url(img/icon-1.svg) no-repeat 160px 60px;
    }
    section div:nth-child(3) h2,
    section div:nth-child(4) h2,
@@ -114,7 +114,7 @@
     width: 400px;
     height: 250px;
     background-color: white;
-    background: url(icon-3.png) no-repeat 160px 60px;
+    background: url(img/icon-3.svg) no-repeat 160px 60px;
    }
    section div:nth-child(5){
     text-align: center;
@@ -123,12 +123,12 @@
     width: 400px;
     height: 250px;
     background-color: white;
-    background: url(icon-2.png) no-repeat 160px 60px;
+    background: url(img/icon-2.svg) no-repeat 160px 60px;
    }
    section div:nth-child(6){
     width: 800px;
     height: 256px;
-    background: url(Layer_5.png) no-repeat;
+    background: url(img/Layer_5.png) no-repeat;
    }
    section div:nth-child(7){
     padding-top: 30px;
@@ -181,7 +181,7 @@
     margin: 0 auto;
     padding-bottom: 10px;
     position: relative;
-    background: url(logo_name.png) no-repeat 1000px 41px;
+    background: url(img/logo-htmlacademy.svg) no-repeat 1000px 41px;
  }
   .hesh{
      padding-top: 51px;
@@ -206,12 +206,12 @@
      height: 48px;
  }
  .icon_twitter{
-   background:#81b3d2 url(t.png) no-repeat center center;
+   background:#81b3d2 url(img/twitter.svg) no-repeat center center;
  }
  .icon_facebook{
-     background: #81b3d2 url(fb-icon.png) no-repeat center center;
+     background: #81b3d2 url(img/fb-icon.svg) no-repeat center center;
  }
  .icon_youtube{
-     background: #81b3d2 url(youtube.png) no-repeat center center;
+     background: #81b3d2 url(ing/youtube.svg) no-repeat center center;
  }
    
