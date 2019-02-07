@@ -41,7 +41,7 @@
        height: 72px;
    }
    .background_photo{
-       background: url("img/background_photo.png") no-repeat;
+       background-image: url("img/background_photo.png") no-repeat;
        width: 1199px;
        height: 760px;
        margin: 0 auto;
